@@ -33,8 +33,7 @@
                                         <td class="text-center">
                                             {{$fixture['home_team']}}
                                         </td>
-                                        <td class="text-center">{{$fixture['home_team_goal']}}
-                                            - {{$fixture['away_team_goal']}}</td>
+                                        <td class="text-center">-</td>
                                         <td class="text-center">
                                             {{$fixture['away_team']}}
                                         </td>
